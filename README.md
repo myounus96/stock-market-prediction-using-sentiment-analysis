@@ -1,5 +1,5 @@
 # stock-market-prediction-using-sentiment-analysis
-stock market predictions using sentiment analysis a machine learning project(data and news based on pakistani stock exchange and news(Dawn news :alien: ))
+stock market predictions using sentiment analysis a machine learning project(data and news based on pakistani stock exchange and news(Dawn news))
 
 <h2> NN-Arch </h2>
 
