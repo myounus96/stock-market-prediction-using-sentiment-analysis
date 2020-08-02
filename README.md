@@ -17,6 +17,6 @@ stock market predictions using sentiment analysis a machine learning project(dat
 
 ![ann-plot](images/ann-plot.png)
 
-<h2> enn-plot </h2>(predictions are not even close :cry: )
+<h2> enn-plot </h2>(For ENN predictions are not even close :cry: )
 
 ![enn-plot](images/enn-plot.png)
